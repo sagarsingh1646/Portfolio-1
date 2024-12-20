@@ -29,7 +29,7 @@ export const ResumeCard = ({
     <Link href={href || "#"} className="block cursor-pointer">
       <Card className="flex">
         <div className="flex-none">
-          <Avatar className="border size-12 m-auto bg-muted-background dark:bg-foreground">
+          <Avatar className="border size-16    m-auto bg-muted-background dark:bg-foreground">
             <AvatarImage
               src={logoUrl}
               alt={altText}
