@@ -9,7 +9,7 @@ export const DATA = {
   description:
     "Software Engineer, passionate about crafting impactful solutions and enhancing user experiences. Always exploring new ideas and technologies.",
   summary:
-    "I’m Sagar Singh, a Senior Developer at Tata Technologies. With over four years of experience in full-stack development, I specialize in MERN applications. I'm passionate about creating user-friendly solutions. Let's connect and explore opportunities!",
+    "Result-oriented software engineering professional with 2+ years of industry experience. Proactive Developer keen on developing optimal solutions for challenging software requirements. Proficiently experienced on Data Structures algorithms, API/Microservices designing, and developing applications with various languages. Committed to continuous learning and upgrading my technical skills.",
   avatarUrl: "/profile_photo.png",
   skills: [
     "React.js",
