@@ -9,7 +9,7 @@ export const DATA = {
   description:
     "Software Engineer, passionate about crafting impactful solutions and enhancing user experiences. Always exploring new ideas and technologies.",
   summary:
-    "I’m Sagar Singh, a Solution Developer at Tata Technologies. With over four years of experience in full-stack development, I specialize in MERN applications. I'm passionate about creating user-friendly solutions. Let's connect and explore opportunities!",
+    "I’m Sagar Singh, a Senior Developer at Tata Technologies. With over four years of experience in full-stack development, I specialize in MERN applications. I'm passionate about creating user-friendly solutions. Let's connect and explore opportunities!",
   avatarUrl: "/profile_photo.png",
   skills: [
     "React.js",
@@ -52,7 +52,7 @@ export const DATA = {
       href: "https://www.tatatechnologies.com/in/",
       badges: [],
       location: "Pune",
-      title: "Solution Developer",
+      title: "Senior Developer",
       logoUrl: "/tata_technologies.jpg",
       start: "Aug 2024",
       end: "Present",
